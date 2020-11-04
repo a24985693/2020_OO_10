@@ -63,8 +63,8 @@
 
 --- 
 **DFD圖：**    
-![](DFD.jpg "DFD圖")
+![](DFD.JPG "DFD圖")
 
 --- 
 **DFD 圖0：**    
-![](DFD 圖0.jpg "DFD 圖0")
+![](DFD 圖0.JPG "DFD 圖0")
